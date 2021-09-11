@@ -1,170 +1,170 @@
 [
     {
         "id": "1",
-        "Nome": "Professor voluntário",
-        "HTML": "docs/ChefiaDepartamental/SITE/Professor Voluntário/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
-        "Resolucao": "docs/Resolucao/0232016 - Professor Voluntário.pdf",
-        "Manual": "http://progep.ufs.br/pagina/1436"
+        "nome": "Professor voluntário",
+        "html": "docs/ChefiaDepartamental/SITE/Professor Voluntário/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
+        "resolucao": "docs/Resolucao/0232016 - Professor Voluntário.pdf",
+        "manual": "http://progep.ufs.br/pagina/1436"
     },
     {
         "id": "2",
-        "Nome": "Aproveitamento de Estudos (AE)",
-        "HTML": "docs/ChefiaDepartamental/SITE/Aproveitamento de Estudos (AE)/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Aproveitamento de Estudos (AE).bpm",
-        "Resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
-        "Manual": "http://pos.ufs.br/pagina/21573-aproveitamento-de-estudos"
+        "nome": "Aproveitamento de Estudos (AE)",
+        "html": "docs/ChefiaDepartamental/SITE/Aproveitamento de Estudos (AE)/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Aproveitamento de Estudos (AE).bpm",
+        "resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
+        "manual": "http://pos.ufs.br/pagina/21573-aproveitamento-de-estudos"
     },
     {
         "id": "3",
-        "Nome": "Aproveitamento Especial de Estudos (AEE)",
-        "HTML": "docs/ChefiaDepartamental/SITE/Aproveitamento Especial de Estudos (AEE)/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Aproveitamento Especial de Estudos (AEE).bpm",
-        "Resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
-        "Manual": "https://www.sigaa.ufs.br/sigaa/public/curso/secao_extra.jsf?lc=pt_BR&id=320172&extra=183876930"
+        "nome": "Aproveitamento Especial de Estudos (AEE)",
+        "html": "docs/ChefiaDepartamental/SITE/Aproveitamento Especial de Estudos (AEE)/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Aproveitamento Especial de Estudos (AEE).bpm",
+        "resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
+        "manual": "https://www.sigaa.ufs.br/sigaa/public/curso/secao_extra.jsf?lc=pt_BR&id=320172&extra=183876930"
     },
     {
         "id": "4",
-        "Nome": "Plano de ensino",
-        "HTML": "docs/ChefiaDepartamental/SITE/Elaborar e aprovar planos de ensino/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Elaborar e Aprovar Planos de Ensino.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "Em breve"
+        "nome": "Plano de ensino",
+        "html": "docs/ChefiaDepartamental/SITE/Elaborar e aprovar planos de ensino/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Elaborar e Aprovar Planos de Ensino.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "5",
-        "Nome": "Aproveitamento de componentes curriculares",
-        "HTML": "docs/ChefiaDepartamental/SITE/Aproveitamento de Componentes Curriculares/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Aproveitamento de Componente Curricular.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "http://depro.ufs.br/pagina/20619"
+        "nome": "Aproveitamento de componentes curriculares",
+        "html": "docs/ChefiaDepartamental/SITE/Aproveitamento de Componentes Curriculares/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Aproveitamento de Componente Curricular.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "http://depro.ufs.br/pagina/20619"
     },
     {
         "id": "6",
-        "Nome": "Concurso para professor efetivo",
-        "HTML": "docs/ChefiaDepartamental/SITE/Concurso para Professor Efetivo/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Concurso para Professor Efetivo.bpm",
-        "Resolucao": "Resolucao/0362016 - Altera Resolução - Pós.pdf",
-        "Manual": "em breve"
+        "nome": "Concurso para professor efetivo",
+        "html": "docs/ChefiaDepartamental/SITE/Concurso para Professor Efetivo/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Concurso para Professor Efetivo.bpm",
+        "resolucao": "Resolucao/0362016 - Altera Resolução - Pós.pdf",
+        "manual": "em breve"
     },
     {
         "id": "7",
-        "Nome": "Concurso para professor substituto",
-        "HTML": "docs/ChefiaDepartamental/SITE/Concurso para Professor Substituto/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Concurso para Professor Substituto.bpm",
-        "Resolucao": "docs/Resolucao/352016 - Professor substituto.pdf",
-        "Manual": "Em breve"
+        "nome": "Concurso para professor substituto",
+        "html": "docs/ChefiaDepartamental/SITE/Concurso para Professor Substituto/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Concurso para Professor Substituto.bpm",
+        "resolucao": "docs/Resolucao/352016 - Professor substituto.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "8",
-        "Nome": "Levantamento patrimonial (Anual)",
-        "HTML": "docs/ChefiaDepartamental/SITE/Levantamento Patrimonial (Anual)/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Levantamento Patrimonial (ANUAL).bpm",
-        "Resolucao": "Em breve",
-        "Manual": "http://manuais.ufs.br/conteudo/55587-levantamento-patrimonial"
+        "nome": "Levantamento patrimonial (Anual)",
+        "html": "docs/ChefiaDepartamental/SITE/Levantamento Patrimonial (Anual)/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Levantamento Patrimonial (ANUAL).bpm",
+        "resolucao": "Em breve",
+        "manual": "http://manuais.ufs.br/conteudo/55587-levantamento-patrimonial"
     },
     {
         "id": "9",
-        "Nome": "Levantamento patrimonial (Mudança de chefia)",
-        "HTML": "docs/ChefiaDepartamental/SITE/Levantamento Patrimonial (Por Mudança de Chefia)/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Levantamento Patrimonial (Por mudança de chefia).bpm",
-        "Resolucao": "Em breve",
-        "Manual": "http://manuais.ufs.br/conteudo/55587-levantamento-patrimonial"
+        "nome": "Levantamento patrimonial (Mudança de chefia)",
+        "html": "docs/ChefiaDepartamental/SITE/Levantamento Patrimonial (Por Mudança de Chefia)/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Levantamento Patrimonial (Por mudança de chefia).bpm",
+        "resolucao": "Em breve",
+        "manual": "http://manuais.ufs.br/conteudo/55587-levantamento-patrimonial"
     },
     {
         "id": "10",
-        "Nome": "Matrículas em atividades",
-        "HTML": "docs/ChefiaDepartamental/SITE/Matriculas em Atividades/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Matriculas em Atividades.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "http://manuais.ufs.br/conteudo/20467-inscricao-em-processo-seletivo-de-estagio"
+        "nome": "Matrículas em atividades",
+        "html": "docs/ChefiaDepartamental/SITE/Matriculas em Atividades/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Matriculas em Atividades.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "http://manuais.ufs.br/conteudo/20467-inscricao-em-processo-seletivo-de-estagio"
     },
     {
         "id": "11",
-        "Nome": "Oferta de conponentes curriculares",
-        "HTML": "docs/ChefiaDepartamental/SITE/Oferta de Componentes Curriculares/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Oferta de Componetes Curriculares.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "Em breve"
+        "nome": "Oferta de conponentes curriculares",
+        "html": "docs/ChefiaDepartamental/SITE/Oferta de Componentes Curriculares/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Oferta de Componetes Curriculares.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "12",
-        "Nome": "Prorrogação de prazo para conclusão de curso",
-        "HTML": "docs/ChefiaDepartamental/SITE/Prorrogação de Prazo para Conclusão de Curso/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Prorrogação de Prazo para Conclusão de Curso.bpm",
-        "Resolucao": "Resolucao/Edital_36_2019_prograd.pdf",
-        "Manual": "http://presencial.ufs.br/pagina/21356"
+        "nome": "Prorrogação de prazo para conclusão de curso",
+        "html": "docs/ChefiaDepartamental/SITE/Prorrogação de Prazo para Conclusão de Curso/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Prorrogação de Prazo para Conclusão de Curso.bpm",
+        "resolucao": "Resolucao/Edital_36_2019_prograd.pdf",
+        "manual": "http://presencial.ufs.br/pagina/21356"
     },
     {
         "id": "13",
-        "Nome": "Quebra de pré-Requisitos",
-        "HTML": "docs/ChefiaDepartamental/SITE/Quebra de Pré-Requisitos/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Quebra de Pré-Requisitos.bpm",
-        "Resolucao": "Resolucao/0212013.pdf",
-        "Manual": "Em breve"
+        "nome": "Quebra de pré-Requisitos",
+        "html": "docs/ChefiaDepartamental/SITE/Quebra de Pré-Requisitos/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Quebra de Pré-Requisitos.bpm",
+        "resolucao": "Resolucao/0212013.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "14",
-        "Nome": "Requisição de veículo",
-        "HTML": "docs/ChefiaDepartamental/SITE/Requisição de Veículo/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Requisição de Veículo.bpm",
-        "Resolucao": "http://portarias.ufs.br/conteudo/50975-portaria#",
-        "Manual": "http://manuais.ufs.br/conteudo/55147-requisicao-de-transportes"
+        "nome": "Requisição de veículo",
+        "html": "docs/ChefiaDepartamental/SITE/Requisição de Veículo/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Requisição de Veículo.bpm",
+        "resolucao": "http://portarias.ufs.br/conteudo/50975-portaria#",
+        "manual": "http://manuais.ufs.br/conteudo/55147-requisicao-de-transportes"
     },
     {
         "id": "15",
-        "Nome": "Aprovar cronograma de reuniões do colegiado do curso",
-        "HTML": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Colegiado do Curso/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Colegiado do Curso.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "Em breve"
+        "nome": "Aprovar cronograma de reuniões do colegiado do curso",
+        "html": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Colegiado do Curso/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Colegiado do Curso.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "16",
-        "Nome": "Reuniões do colegiado do curso",
-        "HTML": "docs/ChefiaDepartamental/SITE/Reuniões do Colegiado do Curso/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Reuniões do Colegiado do Curso.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "Em breve"
+        "nome": "Reuniões do colegiado do curso",
+        "html": "docs/ChefiaDepartamental/SITE/Reuniões do Colegiado do Curso/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Reuniões do Colegiado do Curso.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "17",
-        "Nome": "Aprovar cronograma de reuniões do concelho departamental",
-        "HTML": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Conselho Departamental/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Conselho Departamental.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "Em breve"
+        "nome": "Aprovar cronograma de reuniões do concelho departamental",
+        "html": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Conselho Departamental/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Conselho Departamental.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "18",
-        "Nome": "Reuniões do conselho departamental",
-        "HTML": "docs/ChefiaDepartamental/SITE/Reuniões do conselho departamental/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Reuniões do conselho departamental.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "Em breve"
+        "nome": "Reuniões do conselho departamental",
+        "html": "docs/ChefiaDepartamental/SITE/Reuniões do conselho departamental/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Reuniões do conselho departamental.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "Em breve"
     },
     {
         "id": "19",
-        "Nome": "Aprovar cronograma de Reuniões do núcleo docente estruturante",
-        "HTML": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Núcleo Docente Estruturante/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Núcleo Docente Estruturante.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "http://dms.ufs.br/pagina/20608"
+        "nome": "Aprovar cronograma de Reuniões do núcleo docente estruturante",
+        "html": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Núcleo Docente Estruturante/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Núcleo Docente Estruturante.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "http://dms.ufs.br/pagina/20608"
     },
     {
         "id": "20",
-        "Nome": "Reuniões do núcleo docente estruturante",
-        "HTML": "docs/ChefiaDepartamental/SITE/Reuniões do Núcleo Docente Estruturante/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Reuniões do Núcleo Docente Estruturante.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "http://dms.ufs.br/pagina/20608"
+        "nome": "Reuniões do núcleo docente estruturante",
+        "html": "docs/ChefiaDepartamental/SITE/Reuniões do Núcleo Docente Estruturante/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Reuniões do Núcleo Docente Estruturante.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "http://dms.ufs.br/pagina/20608"
     },
     {
         "id": "21",
-        "Nome": "Solicitações de ensino individual",
-        "HTML": "docs/ChefiaDepartamental/SITE/Solicitações de Ensino Individual/index.html",
-        "BPMN": "docs/ChefiaDepartamental/BPMN/Solicitações de Ensino Individual.bpm",
-        "Resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
-        "Manual": "http://manuais.ufs.br/uploads/page_attach/path/648/Chefe_Departamento.pdf"
+        "nome": "Solicitações de ensino individual",
+        "html": "docs/ChefiaDepartamental/SITE/Solicitações de Ensino Individual/index.html",
+        "bpmn": "docs/ChefiaDepartamental/BPMN/Solicitações de Ensino Individual.bpm",
+        "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "manual": "http://manuais.ufs.br/uploads/page_attach/path/648/Chefe_Departamento.pdf"
     }
 ]

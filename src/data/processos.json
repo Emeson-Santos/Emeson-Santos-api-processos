@@ -2,17 +2,17 @@
     {
         "id": "1",
         "nome": "Professor voluntário",
-        "html": "ChefiaDepartamental/SITE/Professor Voluntário/index.html",
-        "bpmn": "ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
-        "resolucao": "Resolucao/0232016 - Professor Voluntário.pdf",
-        "manual": "http://progep.ufs.br/pagina/1436"
+        "html": "../ChefiaDepartamental/SITE/Professor Voluntário/index.html",
+        "bpmn": "../ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
+        "resolucao": "../Resolucao/0232016 - Professor Voluntário.pdf",
+        "manual": "../http://progep.ufs.br/pagina/1436"
     },
     {
         "id": "2",
         "nome": "Aproveitamento de Estudos (AE)",
-        "html": "docs/ChefiaDepartamental/SITE/Aproveitamento de Estudos (AE)/index.html",
-        "bpmn": "docs/ChefiaDepartamental/BPMN/Aproveitamento de Estudos (AE).bpm",
-        "resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
+        "html": "ChefiaDepartamental/SITE/Aproveitamento de Estudos (AE)/index.html",
+        "bpmn": "ChefiaDepartamental/BPMN/Aproveitamento de Estudos (AE).bpm",
+        "resolucao": "Resolucao/0202016 - AEE e AE.pdf",
         "manual": "http://pos.ufs.br/pagina/21573-aproveitamento-de-estudos"
     },
     {

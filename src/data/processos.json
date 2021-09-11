@@ -2,9 +2,9 @@
     {
         "id": "1",
         "nome": "Professor voluntário",
-        "html": "docs/ChefiaDepartamental/SITE/Professor Voluntário/index.html",
-        "bpmn": "docs/ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
-        "resolucao": "docs/Resolucao/0232016 - Professor Voluntário.pdf",
+        "html": "ChefiaDepartamental/SITE/Professor Voluntário/index.html",
+        "bpmn": "ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
+        "resolucao": "Resolucao/0232016 - Professor Voluntário.pdf",
         "manual": "http://progep.ufs.br/pagina/1436"
     },
     {

@@ -2,6 +2,7 @@ const cors = require('cors');
 const express = require('express');
 const app = express();
 const processos = require('./src/data/processos.json');
+const axios = require('axios');
 
 //o heroku nao retorna a porta 3000 por isso faz dessa forma pra ele criar uma porta pra mim
 const port = process.env.PORT || 3000;

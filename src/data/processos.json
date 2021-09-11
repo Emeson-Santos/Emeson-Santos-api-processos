@@ -2,7 +2,7 @@
     {
         "id": "1",
         "nome": "Professor voluntário",
-        "html": "../ChefiaDepartamental/SITE/Professor Voluntário/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Professor%20Volunt%C3%A1rio/index.html#list",
         "bpmn": "../ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
         "resolucao": "../Resolucao/0232016 - Professor Voluntário.pdf",
         "manual": "../http://progep.ufs.br/pagina/1436"

@@ -3,14 +3,14 @@
         "id": "1",
         "nome": "Professor voluntário",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Professor%20Volunt%C3%A1rio/index.html#list",
-        "bpmn": "../ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
-        "resolucao": "../Resolucao/0232016 - Professor Voluntário.pdf",
-        "manual": "../http://progep.ufs.br/pagina/1436"
+        "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Professor  Voluntário.bpm",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0232016 - Professor Voluntário.pdf",
+        "manual": "http://progep.ufs.br/pagina/1436"
     },
     {
         "id": "2",
         "nome": "Aproveitamento de Estudos (AE)",
-        "html": "ChefiaDepartamental/SITE/Aproveitamento de Estudos (AE)/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aproveitamento%20de%20Estudos%20(AE)/index.html#list",
         "bpmn": "ChefiaDepartamental/BPMN/Aproveitamento de Estudos (AE).bpm",
         "resolucao": "Resolucao/0202016 - AEE e AE.pdf",
         "manual": "http://pos.ufs.br/pagina/21573-aproveitamento-de-estudos"
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "nome": "Aproveitamento Especial de Estudos (AEE)",
-        "html": "docs/ChefiaDepartamental/SITE/Aproveitamento Especial de Estudos (AEE)/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aproveitamento%20Especial%20de%20Estudos%20(AEE)/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Aproveitamento Especial de Estudos (AEE).bpm",
         "resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
         "manual": "https://www.sigaa.ufs.br/sigaa/public/curso/secao_extra.jsf?lc=pt_BR&id=320172&extra=183876930"
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "nome": "Plano de ensino",
-        "html": "docs/ChefiaDepartamental/SITE/Elaborar e aprovar planos de ensino/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Elaborar%20e%20aprovar%20planos%20de%20ensino/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Elaborar e Aprovar Planos de Ensino.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "Em breve"
@@ -34,7 +34,7 @@
     {
         "id": "5",
         "nome": "Aproveitamento de componentes curriculares",
-        "html": "docs/ChefiaDepartamental/SITE/Aproveitamento de Componentes Curriculares/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aproveitamento%20de%20Componentes%20Curriculares/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Aproveitamento de Componente Curricular.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "http://depro.ufs.br/pagina/20619"
@@ -42,7 +42,7 @@
     {
         "id": "6",
         "nome": "Concurso para professor efetivo",
-        "html": "docs/ChefiaDepartamental/SITE/Concurso para Professor Efetivo/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Concurso%20para%20Professor%20Efetivo/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Concurso para Professor Efetivo.bpm",
         "resolucao": "Resolucao/0362016 - Altera Resolução - Pós.pdf",
         "manual": "em breve"
@@ -50,7 +50,7 @@
     {
         "id": "7",
         "nome": "Concurso para professor substituto",
-        "html": "docs/ChefiaDepartamental/SITE/Concurso para Professor Substituto/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Concurso%20para%20Professor%20Substituto/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Concurso para Professor Substituto.bpm",
         "resolucao": "docs/Resolucao/352016 - Professor substituto.pdf",
         "manual": "Em breve"
@@ -58,7 +58,7 @@
     {
         "id": "8",
         "nome": "Levantamento patrimonial (Anual)",
-        "html": "docs/ChefiaDepartamental/SITE/Levantamento Patrimonial (Anual)/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Levantamento%20Patrimonial%20(Anual)/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Levantamento Patrimonial (ANUAL).bpm",
         "resolucao": "Em breve",
         "manual": "http://manuais.ufs.br/conteudo/55587-levantamento-patrimonial"
@@ -66,7 +66,7 @@
     {
         "id": "9",
         "nome": "Levantamento patrimonial (Mudança de chefia)",
-        "html": "docs/ChefiaDepartamental/SITE/Levantamento Patrimonial (Por Mudança de Chefia)/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Levantamento%20Patrimonial%20(Por%20Mudan%C3%A7a%20de%20Chefia)/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Levantamento Patrimonial (Por mudança de chefia).bpm",
         "resolucao": "Em breve",
         "manual": "http://manuais.ufs.br/conteudo/55587-levantamento-patrimonial"
@@ -74,7 +74,7 @@
     {
         "id": "10",
         "nome": "Matrículas em atividades",
-        "html": "docs/ChefiaDepartamental/SITE/Matriculas em Atividades/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Matriculas%20em%20Atividades/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Matriculas em Atividades.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "http://manuais.ufs.br/conteudo/20467-inscricao-em-processo-seletivo-de-estagio"
@@ -82,7 +82,7 @@
     {
         "id": "11",
         "nome": "Oferta de conponentes curriculares",
-        "html": "docs/ChefiaDepartamental/SITE/Oferta de Componentes Curriculares/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Oferta%20de%20Componentes%20Curriculares/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Oferta de Componetes Curriculares.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "Em breve"
@@ -90,7 +90,7 @@
     {
         "id": "12",
         "nome": "Prorrogação de prazo para conclusão de curso",
-        "html": "docs/ChefiaDepartamental/SITE/Prorrogação de Prazo para Conclusão de Curso/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Prorroga%C3%A7%C3%A3o%20de%20Prazo%20para%20Conclus%C3%A3o%20de%20Curso/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Prorrogação de Prazo para Conclusão de Curso.bpm",
         "resolucao": "Resolucao/Edital_36_2019_prograd.pdf",
         "manual": "http://presencial.ufs.br/pagina/21356"
@@ -98,7 +98,7 @@
     {
         "id": "13",
         "nome": "Quebra de pré-Requisitos",
-        "html": "docs/ChefiaDepartamental/SITE/Quebra de Pré-Requisitos/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Quebra%20de%20Pr%C3%A9-Requisitos/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Quebra de Pré-Requisitos.bpm",
         "resolucao": "Resolucao/0212013.pdf",
         "manual": "Em breve"
@@ -106,7 +106,7 @@
     {
         "id": "14",
         "nome": "Requisição de veículo",
-        "html": "docs/ChefiaDepartamental/SITE/Requisição de Veículo/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Requisi%C3%A7%C3%A3o%20de%20Ve%C3%ADculo/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Requisição de Veículo.bpm",
         "resolucao": "http://portarias.ufs.br/conteudo/50975-portaria#",
         "manual": "http://manuais.ufs.br/conteudo/55147-requisicao-de-transportes"
@@ -114,7 +114,7 @@
     {
         "id": "15",
         "nome": "Aprovar cronograma de reuniões do colegiado do curso",
-        "html": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Colegiado do Curso/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aprovar%20Cronograma%20de%20Reuni%C3%B5es%20do%20Colegiado%20do%20Curso/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Colegiado do Curso.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "Em breve"
@@ -122,7 +122,7 @@
     {
         "id": "16",
         "nome": "Reuniões do colegiado do curso",
-        "html": "docs/ChefiaDepartamental/SITE/Reuniões do Colegiado do Curso/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Reuni%C3%B5es%20do%20Colegiado%20do%20Curso/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Reuniões do Colegiado do Curso.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "Em breve"
@@ -130,7 +130,7 @@
     {
         "id": "17",
         "nome": "Aprovar cronograma de reuniões do concelho departamental",
-        "html": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Conselho Departamental/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aprovar%20Cronograma%20de%20Reuni%C3%B5es%20do%20Conselho%20Departamental/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Conselho Departamental.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "Em breve"
@@ -138,7 +138,7 @@
     {
         "id": "18",
         "nome": "Reuniões do conselho departamental",
-        "html": "docs/ChefiaDepartamental/SITE/Reuniões do conselho departamental/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Reuni%C3%B5es%20do%20conselho%20departamental/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Reuniões do conselho departamental.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "Em breve"
@@ -146,7 +146,7 @@
     {
         "id": "19",
         "nome": "Aprovar cronograma de Reuniões do núcleo docente estruturante",
-        "html": "docs/ChefiaDepartamental/SITE/Aprovar Cronograma de Reuniões do Núcleo Docente Estruturante/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aprovar%20Cronograma%20de%20Reuni%C3%B5es%20do%20N%C3%BAcleo%20Docente%20Estruturante/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Núcleo Docente Estruturante.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "http://dms.ufs.br/pagina/20608"
@@ -154,7 +154,7 @@
     {
         "id": "20",
         "nome": "Reuniões do núcleo docente estruturante",
-        "html": "docs/ChefiaDepartamental/SITE/Reuniões do Núcleo Docente Estruturante/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Reuni%C3%B5es%20do%20N%C3%BAcleo%20Docente%20Estruturante/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Reuniões do Núcleo Docente Estruturante.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "http://dms.ufs.br/pagina/20608"
@@ -162,7 +162,7 @@
     {
         "id": "21",
         "nome": "Solicitações de ensino individual",
-        "html": "docs/ChefiaDepartamental/SITE/Solicitações de Ensino Individual/index.html",
+        "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Solicita%C3%A7%C3%B5es%20de%20Ensino%20Individual/index.html#list",
         "bpmn": "docs/ChefiaDepartamental/BPMN/Solicitações de Ensino Individual.bpm",
         "resolucao": "Resolucao/0142015 - Normas Acadêmicas.pdf",
         "manual": "http://manuais.ufs.br/uploads/page_attach/path/648/Chefe_Departamento.pdf"

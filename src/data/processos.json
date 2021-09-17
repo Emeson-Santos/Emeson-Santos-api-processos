@@ -12,7 +12,7 @@
         "nome": "Aproveitamento de Estudos (AE)",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aproveitamento%20de%20Estudos%20(AE)/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Aproveitamento de Estudos (AE).bpm",
-        "resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
+        "resolucao": "https://raw.githubusercontent.com/marcosdosea/ProcessosUFS/792ef89e52c449a1d7bf3cb15a222fdc08fc0500/docs/Resolucao/0202016%20-%20AEE%20e%20AE.pdf",
         "manual": "http://pos.ufs.br/pagina/21573-aproveitamento-de-estudos"
     },
     {
@@ -20,7 +20,7 @@
         "nome": "Aproveitamento Especial de Estudos (AEE)",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aproveitamento%20Especial%20de%20Estudos%20(AEE)/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Aproveitamento Especial de Estudos (AEE).bpm",
-        "resolucao": "docs/Resolucao/0202016 - AEE e AE.pdf",
+        "resolucao": "https://raw.githubusercontent.com/marcosdosea/ProcessosUFS/792ef89e52c449a1d7bf3cb15a222fdc08fc0500/docs/Resolucao/0202016%20-%20AEE%20e%20AE.pdf",
         "manual": "https://www.sigaa.ufs.br/sigaa/public/curso/secao_extra.jsf?lc=pt_BR&id=320172&extra=183876930"
     },
     {
@@ -44,7 +44,7 @@
         "nome": "Concurso para professor efetivo",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Concurso%20para%20Professor%20Efetivo/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Concurso para Professor Efetivo.bpm",
-        "resolucao": "docs/Resolucao/0362016 - Altera Resolução - Pós.pdf",
+        "resolucao": "https://raw.githubusercontent.com/marcosdosea/ProcessosUFS/792ef89e52c449a1d7bf3cb15a222fdc08fc0500/docs/Resolucao/0362016%20-%20Altera%20Resolu%C3%A7%C3%A3o%20-%20P%C3%B3s.pdf",
         "manual": "em breve"
     },
     {
@@ -52,7 +52,7 @@
         "nome": "Concurso para professor substituto",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Concurso%20para%20Professor%20Substituto/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Concurso para Professor Substituto.bpm",
-        "resolucao": "docs/Resolucao/352016 - Professor substituto.pdf",
+        "resolucao": "https://raw.githubusercontent.com/marcosdosea/ProcessosUFS/792ef89e52c449a1d7bf3cb15a222fdc08fc0500/docs/Resolucao/352016%20-%20Professor%20substituto.pdf",
         "manual": "Em breve"
     },
     {
@@ -93,7 +93,7 @@
         "nome": "Prorrogação de prazo para conclusão de curso",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Prorroga%C3%A7%C3%A3o%20de%20Prazo%20para%20Conclus%C3%A3o%20de%20Curso/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Prorrogação de Prazo para Conclusão de Curso.bpm",
-        "resolucao": "docs/Resolucao/Edital_36_2019_prograd.pdf",
+        "resolucao": "https://raw.githubusercontent.com/marcosdosea/ProcessosUFS/792ef89e52c449a1d7bf3cb15a222fdc08fc0500/docs/Resolucao/Edital_36_2019_prograd.pdf",
         "manual": "http://presencial.ufs.br/pagina/21356"
     },
     {
@@ -101,7 +101,7 @@
         "nome": "Quebra de pré-Requisitos",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Quebra%20de%20Pr%C3%A9-Requisitos/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Quebra de Pré-Requisitos.bpm",
-        "resolucao": "docs/Resolucao/0212013.pdf",
+        "resolucao": "https://raw.githubusercontent.com/marcosdosea/ProcessosUFS/792ef89e52c449a1d7bf3cb15a222fdc08fc0500/docs/Resolucao/0212013.pdf",
         "manual": "Em breve"
     },
     {

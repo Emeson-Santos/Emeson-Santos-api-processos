@@ -28,7 +28,7 @@
         "nome": "Plano de ensino",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Elaborar%20e%20aprovar%20planos%20de%20ensino/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Elaborar e Aprovar Planos de Ensino.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "Em breve"
     },
     {
@@ -36,7 +36,7 @@
         "nome": "Aproveitamento de componentes curriculares",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aproveitamento%20de%20Componentes%20Curriculares/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Aproveitamento de Componente Curricular.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "http://depro.ufs.br/pagina/20619"
     },
     {
@@ -76,7 +76,7 @@
         "nome": "Matrículas em atividades",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Matriculas%20em%20Atividades/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Matriculas em Atividades.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "http://manuais.ufs.br/conteudo/20467-inscricao-em-processo-seletivo-de-estagio"
     },
     {
@@ -85,7 +85,7 @@
         "nome": "Oferta de conponentes curriculares",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Oferta%20de%20Componentes%20Curriculares/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Oferta de Componetes Curriculares.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "Em breve"
     },
     {
@@ -117,7 +117,7 @@
         "nome": "Aprovar cronograma de reuniões do colegiado do curso",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aprovar%20Cronograma%20de%20Reuni%C3%B5es%20do%20Colegiado%20do%20Curso/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Colegiado do Curso.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "Em breve"
     },
     {
@@ -125,7 +125,7 @@
         "nome": "Reuniões do colegiado do curso",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Reuni%C3%B5es%20do%20Colegiado%20do%20Curso/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Reuniões do Colegiado do Curso.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "Em breve"
     },
     {
@@ -133,7 +133,7 @@
         "nome": "Aprovar cronograma de reuniões do concelho departamental",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aprovar%20Cronograma%20de%20Reuni%C3%B5es%20do%20Conselho%20Departamental/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Conselho Departamental.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "Em breve"
     },
     {
@@ -141,7 +141,7 @@
         "nome": "Reuniões do conselho departamental",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Reuni%C3%B5es%20do%20conselho%20departamental/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Reuniões do conselho departamental.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "Em breve"
     },
     {
@@ -149,7 +149,7 @@
         "nome": "Aprovar cronograma de Reuniões do núcleo docente estruturante",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Aprovar%20Cronograma%20de%20Reuni%C3%B5es%20do%20N%C3%BAcleo%20Docente%20Estruturante/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Aprovar Cronograma de Reuniões do Núcleo Docente Estruturante.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "http://dms.ufs.br/pagina/20608"
     },
     {
@@ -157,7 +157,7 @@
         "nome": "Reuniões do núcleo docente estruturante",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Reuni%C3%B5es%20do%20N%C3%BAcleo%20Docente%20Estruturante/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Reuniões do Núcleo Docente Estruturante.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "http://dms.ufs.br/pagina/20608"
     },
     {
@@ -165,7 +165,7 @@
         "nome": "Solicitações de ensino individual",
         "html": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/SITE/Solicita%C3%A7%C3%B5es%20de%20Ensino%20Individual/index.html#list",
         "bpmn": "https://fabricadesoftwareufs.github.io/ProcessosUFS/ChefiaDepartamental/BPMN/Solicitações de Ensino Individual.bpm",
-        "resolucao": "docs/Resolucao/0142015 - Normas Acadêmicas.pdf",
+        "resolucao": "https://fabricadesoftwareufs.github.io/ProcessosUFS/Resolucao/0142015%20-%20Normas%20Acad%C3%AAmicas.pdf",
         "manual": "http://manuais.ufs.br/uploads/page_attach/path/648/Chefe_Departamento.pdf"
         
     }
